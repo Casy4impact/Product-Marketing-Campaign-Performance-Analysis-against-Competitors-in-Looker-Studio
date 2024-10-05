@@ -90,14 +90,18 @@ It was be used for :
 
 ## Project Scope
 - A. Exploratory Data Analysis: Explore the data to understand its characteristics and discover patterns.
- 
 - B. Data Transformation: Prepare the data for analysis by transforming, encoding, or normalizing it.
- 
 - C. Data Analysis: Analyze data to understand patterns in order to generate insights that will be visualized.
- 
 - D. Data Visualization: Create visual representations to communicate insights effectively.
- 
 - E. Interpretation and Insight Generation: Extract meaningful insights and interpret the results.
+
+## Marketing Campaign Key Performance Indicators (KPI)
+1. Number of Campaigns
+2. Impressions
+3. Clicks
+4. Conversions
+6. Revenue/Sales
+6. Return On Investment (ROI)
 
 ## Key Performance Metrics:
 #### Sales and ROI Trends (2023):
