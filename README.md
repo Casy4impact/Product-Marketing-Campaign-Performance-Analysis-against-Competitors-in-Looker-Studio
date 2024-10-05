@@ -79,7 +79,7 @@ This case study contains 4 datasets and they are as follows:
 
 ## Tech Stack: Tool - Looker
  
-It was be used for :
+It was used for :
 •	A. Data Integration
 •	B. Data Transformation
 •	C. Data Analysis and Modeling
